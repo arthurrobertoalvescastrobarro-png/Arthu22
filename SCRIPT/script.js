@@ -1652,6 +1652,16 @@ const series = [
     tipo: "Série",
     
 },
+{
+    titulo: "Dexter",
+    imagem: "https://media.themoviedb.org/t/p/w300_and_h450_face/f1nV5NBIFwfQLw5g8FVrdt90FAy.jpg",
+    descricao: "Renomado funcionário da Polícia de Miami, Dexter esconde de todos uma segunda identidade: ele é um assassino em série que mata os criminosos que a polícia não consegue prender.",
+    temporadas: "8-Temporadas",
+    classificacao: "18",
+    categoria: ["Crime", "Drama", " Mistério"],
+    link: "https://www.pobreflixtv.living/series/online/dexter-dublado-11262/",
+    tipo: "Série",
+},
 
 ];
 
