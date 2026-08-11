@@ -1662,6 +1662,26 @@ const series = [
     link: "https://www.pobreflixtv.living/series/online/dexter-dublado-11262/",
     tipo: "Série",
 },
+{
+    titulo: "Demon Slayer: Kimetsu no Yaiba Filme – Castelo Infinito Dublado",
+    imagem: "https://media.themoviedb.org/t/p/w300_and_h450_face/41XdjOXGQoH0HTDNqEfwKGvGgwm.jpg",
+    descricao: "Enquanto os membros dos caçadores e os Hashira participavam de um rigoroso programa de fortalecimento coletivo, conhecido como Treinamento dos Hashira, em preparação para a batalha final contra os demônios, Muzan Kibutsuji aparece na Mansão Ubuyashiki. Com a vida do líder da organização em risco, Tanjiro e os Hashira correm até o quartel-general, mas acabam sendo lançados, pelas mãos de Muzan, em uma queda profunda rumo a um espaço misterioso para um confronto final, o Castelo Infinito.",
+    temporadas: "Filme",
+    classificacao: "18",
+    categoria: ["Fantasia", " Ação", "Drama"],
+    link: "https://animesonline.io/anime/demon-slayer-kimetsu-no-yaiba-castelo-infinito-dublado/",
+    tipo: "Anime",
+},
+// {
+//     titulo: "",
+//     imagem: "",
+//     descricao: "",
+//     temporadas: "",
+//     classificacao: "",
+//     categoria: ["", "", ""],
+//     link: "",
+//     tipo: "",
+// },
 
 ];
 
