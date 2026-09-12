@@ -1792,6 +1792,16 @@ const series = [
     link: "https://animesonline.io/anime/kiseijuu-sei-no-kakuritsu-dublado/",
     tipo: "Anime",
 },
+{
+    titulo: "You and I Are Polar Opposites",
+    imagem: "https://media.themoviedb.org/t/p/w300_and_h450_face/nzSWPAhZQ6Y95doEQWURg44Qr7a.jpg",
+    descricao: "Suzuki é uma garota animada e sociável, apaixonada pelo colega Yusuke Tani. O problema é que ele é o oposto completo: quieto, reservado e indiferente ao que os outros pensam. Será que Suzuki conseguirá vencer sua timidez e se declarar, ou descobrirá que os opostos realmente não se atraem?",
+    temporadas: "2-Temporada",
+    classificacao: "14",
+    categoria: ["Fantasia", "Comédia", "Romance"],
+    link: "https://animesonline.io/anime/kiseijuu-sei-no-kakuritsu-dublado/",
+    tipo: "Anime",
+},
 // {
 //     titulo: "",
 //     imagem: "",
