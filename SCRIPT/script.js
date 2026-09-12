@@ -1774,7 +1774,7 @@ const series = [
 },
 {
     titulo: "Redo of Healer",
-    imagem: "",
+    imagem: "https://media.themoviedb.org/t/p/w300_and_h450_face/9T7TT0w92RbeRP5QSnNq81HHxde.jpg",
     descricao: "A história se passa em um mundo de fantasia, acompanhando Keyar, um healer (Curandeiro) que foi traído e usado pelos seus companheiros de grupo por sua classe ser vista como inútil, já que não pode lutar sozinha. Entretanto, após certos eventos, Keyar desperta uma magia de cura suprema, “regenerando” seu própria mundo e voltando no tempo 4 anos antes, para que assim possa refazer sua vida, e ter sua vingança contra todos que fizeram mal a ele.",
     temporadas: "1-Temporada",
     classificacao: "18",
